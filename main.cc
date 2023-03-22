@@ -1,8 +1,6 @@
-#include <iostream>
-using namespace std;
+#include "MainControl.h"
 
 int main(){
-    
-
-    
+    MainControl obj;
+    obj.run();
 }
